@@ -32,7 +32,7 @@ I am a **Data Analyst** and **Data Analytics Instructor** with over a decade of 
 ---
 
 ## 🧑‍💻 Sobre Mí  
-Soy **Analista de Datos** e **Instructora de Data Analytics** con más de una década de experiencia en la industria audiovisual. Domino herramientas como **Python**, **SQL**, **Tableau** y **Power BI** para transformar datos en insights accionables y optimizar flujos de trabajo. Apasionada por la inclusión en la tecnología, disfruto empoderar a otros en su camino hacia el éxito en análisis de datos.  
+Soy **Analista de Datos** e **Instructora de Data Analytics** con más de una década de experiencia en la industria audiovisual. Domino herramientas como **Python**, **SQL**, **Tableau** y **Power BI** para transformar datos en insights accionables y optimizar flujos de trabajo. Apasionada por la inclusión en la tecnología, disfruto empoderar a otras en su camino hacia el éxito en análisis de datos.  
 
 ---
 
