@@ -1,6 +1,7 @@
 # 👋 Welcome to My GitHub Portfolio  
 
-🌐 **[Switch to Español](#📖-bienvenidos-a-mi-portafolio-en-github)**  
+🌐 _Para ver la versión en español, haz un scroll hacia abajo._  
+
 
 ---
 
@@ -26,9 +27,7 @@ I am a **Data Analyst** and **Data Analytics Instructor** with over a decade of 
 
 ---
 
-# 📖 Bienvenidos a Mi Portafolio en GitHub  
-
-🌐 **[Switch to English](#👋-welcome-to-my-github-portfolio)**  
+# 📖 Bienvenidas a Mi Portafolio en GitHub  
 
 ---
 
